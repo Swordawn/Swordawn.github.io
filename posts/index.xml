@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Sword&#39;blog</title>
-        <link>/</link>
-        <description>Recent content on Sword&#39;blog</description>
+        <title>Posts on Sword&#39;blog</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Sword&#39;blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 15 Jan 2023 19:28:42 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Jan 2023 19:28:42 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sword</title>
         <link>/posts/%E6%96%87%E6%A1%88/</link>
         <pubDate>Sun, 15 Jan 2023 19:28:42 +0800</pubDate>
         
         <guid>/posts/%E6%96%87%E6%A1%88/</guid>
         <description>&lt;p&gt;404 NOT FOUND&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>联系我</title>
-        <link>/main/%E8%81%94%E7%B3%BB%E6%88%91/</link>
-        <pubDate>Sun, 25 Dec 2022 17:10:40 +0800</pubDate>
-        
-        <guid>/main/%E8%81%94%E7%B3%BB%E6%88%91/</guid>
-        <description>&lt;p&gt;Wechat ID：Zzt-Swordawn&lt;/p&gt;
-&lt;p&gt;Telegram：Swordawn_&lt;/p&gt;
-&lt;p&gt;Github：Swordawn&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -714,15 +703,6 @@
         <description>&lt;p&gt;现代人太着急了，看一眼照片，听一段语音，道两天晚安，就喜欢上了。不过讨厌得也很快，喜欢了两三年，最后因为一个眼神，一句话，不到一秒就决定放弃了，多情又冷酷也挺好的，速战速决总是好过暧昧不清。
 就只怕杀伐决断的遇上了藕断丝连的，情意绵绵的遇上了见异思迁。
 这世上，赢得多半是薄情人&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>我的个人简介</title>
-        <link>/main/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</link>
-        <pubDate>Sun, 23 Oct 2022 01:59:03 +0800</pubDate>
-        
-        <guid>/main/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</guid>
-        <description>&lt;p&gt;大家好，我是Sword，一个名字就充满着锐利的能量。作为一名高中生，我对计算机编程充满了热情和兴趣。我是一个技术控，钟爱探索最新的科技和软件，希望有一天能够成为计算机领域的行家里手。除了技术，我还注重坚定的个人价值观，其中勇气、自信和创新精神是我一直以来努力追求的。在我的个人博客中，我将分享我在学习和探索中的经验和教训，希望这些能够启发和帮助像我一样的人。谢谢您的阅读。&lt;/p&gt;
 </description>
         </item>
         
